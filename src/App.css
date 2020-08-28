@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+  .container-fluid{
+    background-color: rgba(70, 66, 68, 0.185);
+  }
+.checkout-btn{
+  background-color: rgb(11, 183, 240);
+  color: #fff;
+  padding: 6px 50px;
+  border-radius: 5px;
+  width: 100%;
+}
